@@ -27,7 +27,7 @@ Programa desarrollado en C# (01/2021)
 
 ## Captura
 
-![App Screenshot](https://github.com/diegobiasatti/conexion_udp/blob/main/vista.JPG?raw=true)
+![App Screenshot](https://github.com/diegobiasatti/conexion_udp/blob/main/vista_.JPG?raw=true)
 
 ![App Screenshot](https://github.com/diegobiasatti/conexion_udp/blob/main/vista_1.JPG?raw=true)
 
