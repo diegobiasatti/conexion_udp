@@ -1,0 +1,4 @@
+ip=web.dyndns.org
+puerto=59567
+base=C:\Monster\Datos.mdb
+reset=15
